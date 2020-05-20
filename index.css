@@ -15,21 +15,23 @@ header{
   .navbar {
     width: 1000px;
     margin: 30px auto;
-    background-color:white;
+    background-color:#ffff;
   }
   
   .navbar ul{
     list-style: none;
     text-align: center;
+    background-color:#ffff;
   }
 
   .menu > li{
     position: relative;
     text-align: center;
     display: inline-block;
+    background-color: #fff;
   }
   
-  .menu > li > a{
+  .menu > li > button{
     display: block;
     padding: 15px 20px;
     color: black;
@@ -37,7 +39,7 @@ header{
     text-decoration: none;
   }
 
-  .menu li a:hover{
+  .menu li button:hover{
     color: #CE7D35;
     transition: all .3s;
   }
@@ -51,11 +53,11 @@ header{
     transition: opacity 1.5s;
   }
 
-  .submenu li a{
+  .submenu li button{
     display: block;
     padding: 15px;
-    color: white;
-    font-family: Open sans, sans-serif;
+    color: #CE7D35;
+    font-family: 'Open sans, sans-serif';
     text-decoration: none;
   }
   .menu li:hover .submenu{
@@ -98,6 +100,14 @@ header{
     position: relative;
     width: 900px;
     height: 500px;
+   }
+
+   .process{
+    width: 350px;
+    height: auto;
+    margin: 75px auto;
+    display:block;
+    margin:auto;
    }
 
 
