@@ -1,8 +1,8 @@
 var santoriniPage = `
 
 <section>
-<h1>Santorini Studio</h1>
-<h2>Our most fun complex</h2>
+<h1 class="santorini">Santorini Studio</h1>
+<h2 class="fun">Our most fun complex</h2>
 <img class="student" src="/img/orangelightbed.jpg"  alt="bed">
 <img class="student" src="/img/orangelightroom.jpg"  alt="space">
 

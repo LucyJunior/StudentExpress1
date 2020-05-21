@@ -132,8 +132,8 @@ var aboutUsButton = document.querySelector(".aboutUsButton")
 function insertAboutUsPage(){
     // remove the info from the body
 
-    var infosection = document.querySelector("section");
-infosection.remove();
+    var infoSection = document.querySelector("section");
+infoSection.remove();
 
 console.log("this is working");
 
@@ -146,6 +146,30 @@ aboutUsSection.innerHTML = aboutUsPage;
     document.body.appendChild(aboutUsSection);
 }
 
-aboutUsButton.addEventListener("click", insertAboutUsPage)
+aboutUsButton.addEventListener("click", insertAboutUsPage);
 
-window.addEventListener("load", insertHomePage)
+//Contact Us Page
+
+var contactUsButton = document.querySelector(".contactUsButton");
+
+function insertContactUsPage(){
+
+    var infoSection = document.querySelector("section");
+    infoSection.remove();
+
+let contactUsSection = document.createElement("section");
+contactUsSection.innerHTML = contactUsPage;
+
+document.body.appendChild(contactUsSection);
+
+}
+
+contactUsButton.addEventListener("click", insertContactUsPage);
+
+
+
+
+
+
+
+window.addEventListener("load", insertHomePage);
