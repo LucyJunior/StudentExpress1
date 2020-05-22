@@ -58,12 +58,13 @@ Definition of the different states and their transition (transition functions)
 
 ## Task
 Home Page
-- Add background image
+- Add background colors
 - Add main Image
 - Add video
-- Add social buttons
+-  Choose text
 
 Appartments
+
 - Add 3 buttons
 - Add three slids per appartment section
 
@@ -75,12 +76,12 @@ Appartment 2
 - Pictures 
 - Info
 
-Appartment 3
+Appartment 3 
 - Pictures
 - Info
 
 How does it work
-- 
+- Explanation about the steps to proceed
 
 
 About us
