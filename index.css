@@ -152,6 +152,8 @@ header{
     margin: 50px auto;
    }
    
+/* Sao Paulo */
+
    .brasil{
     text-align: center;
     font-family:'Open Sans Condensed';
@@ -167,7 +169,28 @@ header{
     margin: 50px auto;
 
    }
-  
+
+   .column{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+   }
+
+   .column1{
+    float: right;
+    width: 33.33%;
+    padding: 5px;
+
+   }
+
+   .row1::after{
+
+  content: "";
+  clear: both;
+  display: table;
+
+   }
+  /* Madrid */
    .madrid{
     text-align: center;
     font-family:'Open Sans Condensed';
@@ -184,21 +207,20 @@ header{
 
    }
 
-   .madrid{
-    text-align: center;
-    font-family:'Open Sans Condensed';
-    font-size: 30px;
-    margin: 50px auto;
+   .studio{
 
-   }
-
-   .lighted{
-    text-align: center;
+    text-align: left;
     font-family:'Open Sans';
-    font-size: 20px;
-    margin: 50px auto;
-
+    font-size: 25px;
+     margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    margin-left: 80px; 
+     
    }
+
+
+   /* Santorini */
 
    .santorini{
     text-align: center;
@@ -221,7 +243,10 @@ header{
     text-align: center;
     font-family:'Open Sans Condensed';
     font-size: 30px;
-    margin: 30px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 
    }
 
@@ -229,60 +254,117 @@ header{
     text-align: center;
     font-family:'Open Sans';
     font-size: 20px;
-    margin: 50px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
    }
 
    .meeting{
     text-align: center;
     font-family:'Open Sans';
     font-size: 20px;
-    margin: 50px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
    }
 
    .contract{
     text-align: center;
     font-family:'Open Sans';
     font-size: 20px;
-    margin: 50px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
    }
 
    .checkin{
     text-align: center;
     font-family:'Open Sans';
     font-size: 20px;
-    margin: 50px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
    }
 
    .dontforget{
     text-align: center;
     font-family:'Open Sans Condensed';
     font-size: 20px;
-    margin: 50px auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
    }
     
    .me{
+
+    float: left;
+    width: 33.33%;
+    padding: 5px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 355px;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 120px;
+  
+
+
    }
+ 
+   .ceo{
    
-   .cco{
-   display: flex;
-   width: 80%;
+   
+    text-align: center;
+    font-family:'Open Sans';
+    font-size: 25px;
+     margin-top: 50px;
+    margin-bottom: 100px;
+    
 
-   }
+   } 
 
-   .husky{
+    .husky{
 
+
+    float: right;
+    width: 33.33%;
+    padding: 5px;
     display: flex;
-    width: 80%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 355px;
+    height: auto;
+    margin:auto;
+    margin-top: 100px;
+    margin-bottom: 100px; 
+    margin-right: 120px;
+    margin-left: 80px;
+     
 
-   }
+   } 
 
-   .discover{
-     width: 200px;
-   }
+   /* .discover{
+     
+    text-align: left;
+    font-family:'Open Sans';
+    font-size: 25px;
+     margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    margin-left: 80px;
+     
+    
+   } */
 
 
      .contact{

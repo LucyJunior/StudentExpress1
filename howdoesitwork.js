@@ -3,11 +3,9 @@
 var HowDoesItWorkPage =`
 <section> 
   <h1 class="tittle">How Does it Work</h1> 
+  
 
   <div> 
-  <h3 class="haveyou"> Have you been assigned a studio via the automated draw? Then there will be an introductory meeting and eventually the digital signing of your contract.
-
-    In this step-by-step plan you can read exactly what needs to be done before you can move into your new studio.</h3>
     
     <p class="email">1 E-MAIL CONFIRMATION
     After you have been chosen via the automated draw, a confirmation will be sent by e-mail.
