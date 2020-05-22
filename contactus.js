@@ -39,7 +39,7 @@ function validate(){
     return true;
   }
 
-var contactUsPage = `
+var contactUsPage= `
 
 <div class="wrapper">
   <h2>Contact us</h2>

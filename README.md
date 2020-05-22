@@ -14,24 +14,41 @@ Student Express is a website portrait to facilited students acommodations to stu
 - The contact page with a form to fill in name, email and message. As well as the direction of the company, email and number.
 - 
 
-## Backlog
-
-## Data Structure
-
-# main.js
 
 # Home.js
+var homePage
 
 # Appartment.js 
+var AppartmentsPage
 
+# Sao Paulo - Madrid - Santorini
+
+var saoPauloPage 
+var madridPage 
+var santoriniPage 
 
 # How does it work.js 
+
+var HowDoesItWorkPage
 
 
 # About us.js 
 
+var aboutUsPage
+
 # Contact us.js 
 
+function validate(){ 
+var name 
+var subject 
+var phone
+var email 
+var message 
+var error_message 
+var text
+}
+
+var contactUsPage
 
 
 
@@ -81,9 +98,8 @@ Contact us
 
 ### Git
 URls for the project repo and deploy
-[Link Repo]()
-[Link Deploy]()
+[Link Repo]( https://lucyjunior.github.io/StudentExpress1/)
+
 
 ### Slides
-URls for the project presentation (slides)
-[Link Slides.com]()
+[Link Slides.com](https://docs.google.com/presentation/d/11l6tVfRpTi51P2x79BOKFbMN54iARQkZiKFiklOIR4c/edit#slide=id.g442eb61d9d_0_0)
