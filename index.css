@@ -157,30 +157,6 @@ header{
     margin: 50px auto;
    }
 
-   .p2{
-
-    text-align: center;
-    font-family:'Open Sans';
-    font-size: 20px;
-    margin: 50px auto;
-   }
-
-   .p3{
-
-    text-align: center;
-    font-family:'Open Sans';
-    font-size: 20px;
-    margin: 50px auto;
-   }
-
-   .p4{
-
-    text-align: center;
-    font-family:'Open Sans';
-    font-size: 20px;
-    margin: 50px auto;
-   }
-   
 /* Sao Paulo */
 
    .brasil{
@@ -236,19 +212,6 @@ header{
 
    }
 
-   .studio{
-
-    text-align: left;
-    font-family:'Open Sans';
-    font-size: 25px;
-     margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 10px;
-    margin-left: 80px; 
-     
-   }
-
-
    /* Santorini */
 
    .santorini{
@@ -267,6 +230,8 @@ header{
 
    }
 
+   /* How does it work */
+
 
    .haveyou{
     text-align: center;
@@ -279,38 +244,7 @@ header{
 
    }
 
-   /* How does it work */
    .email{
-    text-align: center;
-    font-family:'Open Sans';
-    font-size: 20px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-   }
-
-   .meeting{
-    text-align: center;
-    font-family:'Open Sans';
-    font-size: 20px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-   }
-
-   .contract{
-    text-align: center;
-    font-family:'Open Sans';
-    font-size: 20px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-   }
-
-   .checkin{
     text-align: center;
     font-family:'Open Sans';
     font-size: 20px;
@@ -347,8 +281,6 @@ header{
     margin-bottom: 100px;
     margin-right: 100px;
     margin-left: 120px;
-  
-
 
    }
  
@@ -357,10 +289,7 @@ header{
     text-align: center;
     font-family:'Open Sans';
     font-size: 20px;
-     /* margin-top: 50px;
-    margin-bottom: 100px; */
     
-
    } 
 
     .husky{
@@ -384,28 +313,8 @@ header{
 
    } 
 
-    .saopaulolines{
-      
-        text-align: center;
-        font-family:'Open Sans';
-        font-size: 20px;
-        margin-top: 100px;
-        margin-bottom: 100px;
-        margin-right: 150px;
-        margin-left: 80px;
-    }
-   /* .discover{
-     
-    text-align: left;
-    font-family:'Open Sans';
-    font-size: 25px;
-     margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 10px;
-    margin-left: 80px;
-     
-    
-   } */
+
+
 
   /*Contact Us*/
 
