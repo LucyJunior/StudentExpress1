@@ -100,6 +100,7 @@ Contact us
 ### Git
 URls for the project repo and deploy
 [Link Repo]( https://lucyjunior.github.io/StudentExpress1/)
+[Link Deploy](https://github.com/LucyJunior/StudentExpress1)
 
 
 ### Slides
