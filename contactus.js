@@ -31,7 +31,7 @@ function validate(){
       return false;
     }
     if(message.length <= 140){
-      text = "The more, the better. Please more than 140 characters so we know what you need";
+      text = "The more, the better. Please more than 140 characters so we know for sure what you need";
       error_message.innerHTML = text;
       return false;
     }

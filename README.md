@@ -104,4 +104,4 @@ URls for the project repo and deploy
 
 
 ### Slides
-[Link Slides.com](https://docs.google.com/presentation/d/11l6tVfRpTi51P2x79BOKFbMN54iARQkZiKFiklOIR4c/edit#slide=id.g442eb61d9d_0_0)
+[Link Slides.com](https://docs.google.com/presentation/d/11l6tVfRpTi51P2x79BOKFbMN54iARQkZiKFiklOIR4c/edit?usp=sharing)
