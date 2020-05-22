@@ -29,7 +29,7 @@ body{
   }
   60%
   {
-    background: #fff200;
+    background:#fad390;
   }
   80%
   {
@@ -283,6 +283,7 @@ header{
 
    }
 
+   /* How does it work */
    .email{
     text-align: center;
     font-family:'Open Sans';
@@ -357,12 +358,11 @@ header{
  
    .ceo{
    
-   
     text-align: center;
     font-family:'Open Sans';
-    font-size: 25px;
-     margin-top: 50px;
-    margin-bottom: 100px;
+    font-size: 20px;
+     /* margin-top: 50px;
+    margin-bottom: 100px; */
     
 
    } 
@@ -388,6 +388,16 @@ header{
 
    } 
 
+    .saopaulolines{
+      
+        text-align: center;
+        font-family:'Open Sans';
+        font-size: 20px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+    }
    /* .discover{
      
     text-align: left;
@@ -403,14 +413,14 @@ header{
 
   /*Contact Us*/
 
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: sans-serif;
+  }
 
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  outline: none;
-  font-family: sans-serif;
-}
 
 .wrapper{
   position: absolute;
